@@ -9,5 +9,5 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 # Usage
 Projeyi vscode üzerinden açınız.
 
-#patika.dev
+# patika.dev
 https://app.patika.dev/alisamed
